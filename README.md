@@ -41,6 +41,7 @@ Espero que te guste este repositorio y si lo estas usando de guia, por lo menos 
 ## Puntos impares
 **¡Muchas Gracias! Y RECUERDA TOMAR AGUA Y ESCUCHAR LAS JOYITAS QUE DEJAMOS AL FINAL**
 
-<a href="https://open.spotify.com/intl-es/track/2VCSO1mqWPALcPbEQwgSd3?si=8a435d63fae64e24](https://open.spotify.com/intl-es/track/2VCSO1mqWPALcPbEQwgSd3?si=8a435d63fae64e24)https://open.spotify.com/intl-es/track/2VCSO1mqWPALcPbEQwgSd3?si=8a435d63fae64e24 ">**JOYITA 1:**</a>
-<a href="https://open.spotify.com/intl-es/track/5G9NU9pN0gdbtdXYuAUs2z?si=517f7fcc84524ed5">**JOYITA 2:**</a>
+<a href="https://open.spotify.com/intl-es/track/2VCSO1mqWPALcPbEQwgSd3?si=8a435d63fae64e24](https://open.spotify.com/intl-es/track/2VCSO1mqWPALcPbEQwgSd3?si=8a435d63fae64e24)https://open.spotify.com/intl-es/track/2VCSO1mqWPALcPbEQwgSd3?si=8a435d63fae64e24 ">**JOYITA 1**</a>
+<a href="https://open.spotify.com/intl-es/track/5G9NU9pN0gdbtdXYuAUs2z?si=517f7fcc84524ed5">**JOYITA 2** </a>
+
 [[![image](https://github.com/Cate1911/Proyecto-Gargajito-1/assets/141857246/2f9523bb-ee74-4f61-a7f5-3f864ae13a66)](https://open.spotify.com/intl-es/track/2VCSO1mqWPALcPbEQwgSd3?si=8a435d63fae64e24)
