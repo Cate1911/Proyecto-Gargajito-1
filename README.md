@@ -20,6 +20,17 @@ Espero que te guste este repositorio y si lo estas usando de guia, por lo menos 
   Este algoritmo permite determinar si un número es múltiplo de otro al utilizar la propiedad fundamental de que cuando dos números son múltiplos, su división arrojará un residuo igual a cero.
 
    **_Diagrama de flujo_**
+
+```mermaid
+flowchart TD
+    A[Determinar si a es múltiplo de b] -->B(Inicio)
+    B --> C[Ingrese un número entero=a]
+    C --> D[Ingrese otro número entero=b]
+    D --> E[Divida a entre b]
+    E --> F{¿El residuo de la división es 0?}
+    F -->|Sí| G[a es múltiplo de b]
+    F -->|No| H[a no es múltiplo de b]
+```  
 + **Escriba un programa que solicite al usuario una letra y determine si es una vocal o una consonante.**
 
   ![image](https://github.com/Cate1911/Proyecto-Gargajito-1/assets/141857246/c3dd4ed6-8a51-46fe-8a76-ba30c5ff1f22)
