@@ -29,8 +29,9 @@ flowchart TD
     D --> E[Divida a entre b]
     E --> F{¿El residuo de la división es 0?}
     F -->|Sí| G[a es múltiplo de b]
-    F -->|No| H[a no es múltiplo de b]
-```  
+    F -->|No| H[a no es múltiplo de b]  
+```
+
 + **Escriba un programa que solicite al usuario una letra y determine si es una vocal o una consonante.**
 
   ![image](https://github.com/Cate1911/Proyecto-Gargajito-1/assets/141857246/c3dd4ed6-8a51-46fe-8a76-ba30c5ff1f22)
