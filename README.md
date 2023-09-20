@@ -18,19 +18,10 @@ Espero que te guste este repositorio y si lo estas usando de guia, por lo menos 
   1. La primera condición se cumple cuando 'a' (el primer número) es múltiplo de 'b' (el segundo número). Esto ocurre si el residuo de la división 'a/b' es igual a cero.
   2. La segunda condición se aplica a los casos en los que el residuo de la división 'a/b' es diferente de cero, lo que indica que 'a' no es múltiplo de 'b'.
   Este algoritmo permite determinar si un número es múltiplo de otro al utilizar la propiedad fundamental de que cuando dos números son múltiplos, su división arrojará un residuo igual a cero.
-
+   
    **_Diagrama de flujo_**
 
-```mermaid
-flowchart TD
-    A[Determinar si a es múltiplo de b] -->B(Inicio)
-    B --> C[Ingrese un número entero=a]
-    C --> D[Ingrese otro número entero=b]
-    D --> E[Divida a entre b]
-    E --> F{¿El residuo de la división es 0?}
-    F -->|Sí| G[a es múltiplo de b]
-    F -->|No| H[a no es múltiplo de b]  
-```
+     ![image](https://github.com/Cate1911/Proyecto-Gargajito-1/assets/141857246/5edba27b-13c9-45bd-91cf-9bb5174c4c9c)
 
 + **Escriba un programa que solicite al usuario una letra y determine si es una vocal o una consonante.**
 
