@@ -2,7 +2,7 @@
 Para este repositorio, utilizamos la extensión Code Snap para poder tomarle fotos a nuestros códigos y que se vieran más bonitos. Por otro lado, los diagramas de flujo los desarrollamos para los puntos 3 y 4 debido a que ambos documentos de identidad terminaban en 3.
 Espero que te guste este repositorio y si lo estas usando de guia, por lo menos deja una estrellita :).
 ## Puntos pares
-+ ** 2. Realice un programa que lea tres números reales y determine cuál es el mayor.**
++ 2. Realice un programa que lea tres números reales y determine cuál es el mayor.
 
   ![image](https://github.com/Cate1911/Proyecto-Gargajito-1/assets/141857246/4b7d3670-f038-4fa7-a59e-24a57a5cfd44)
  En este ejercicio, comenzamos declarando las variables como tipo 'float' para indicar que los tres números ingresados por el usuario pueden tomar valores del conjunto de los reales. A continuación, establecimos cuatro condiciones para determinar la salida según las siguientes situaciones:
@@ -11,7 +11,7 @@ Espero que te guste este repositorio y si lo estas usando de guia, por lo menos 
   3. Si el tercer número (c) es mayor que los otros dos números (a y b).
   4. En cualquier otro caso, en el cual necesariamente el segundo número (b) es mayor que los otros dos números (a y c).
   Es importante destacar que el ejercicio no aborda situaciones en las que dos números sean iguales y también sean mayores o menores que el tercer número. Por ejemplo, si a=b>c, en ese caso, la salida sería 'a' ya que a es igual a b. El ejercicio se centra únicamente en determinar cuál de los tres números es el mayor, sin considerar casos de igualdad entre dos de ellos.
-+ ** 4. Realice un programa que lea dos números reales y determine si el primero es múltiplo del segundo.**
++  4. Realice un programa que lea dos números reales y determine si el primero es múltiplo del segundo.
 
   ![image](https://github.com/Cate1911/Proyecto-Gargajito-1/assets/141857246/60e69457-ab19-4f01-8365-abf23ad22230)
   En este ejercicio, comenzamos declarando las variables como tipo 'float' para indicar que los tres números ingresados por el usuario pueden tomar valores del conjunto de los números reales. En cuanto a la lógica del algoritmo, hemos establecido dos condiciones para determinar la salida:
@@ -23,7 +23,7 @@ Espero que te guste este repositorio y si lo estas usando de guia, por lo menos 
 
      ![image](https://github.com/Cate1911/Proyecto-Gargajito-1/assets/141857246/5edba27b-13c9-45bd-91cf-9bb5174c4c9c)
 
-+ ** 6. Escriba un programa que solicite al usuario una letra y determine si es una vocal o una consonante.**
++  6. Escriba un programa que solicite al usuario una letra y determine si es una vocal o una consonante.
 
   ![image](https://github.com/Cate1911/Proyecto-Gargajito-1/assets/141857246/c3dd4ed6-8a51-46fe-8a76-ba30c5ff1f22)
   En este caso, se solicita al usuario que ingrese un carácter. El algoritmo valida la entrada de usuario de la siguiente manera:
@@ -33,7 +33,7 @@ Espero que te guste este repositorio y si lo estas usando de guia, por lo menos 
 + **Escriba un programa al que se le ingrese la frecuencia de una onda en hz y como salida arroje en que parte del espectro magnético se encuentra.**
   ![image](https://github.com/Cate1911/Proyecto-Gargajito-1/assets/141857246/4528f85d-8879-407a-98fe-00e5836f7dae)
   En este contexto, comenzamos declarando una variable para presentar frecuencia de onda como tipo "float", debido a que este dato puede tomar cualquier valor dentro del conjunto de los reales. Luego, solicitamos al usuario que ingrese la frecuencia de onda en hertzios (Hz) y en base al intervalo en el que se encuentra esa frecuencia, según la <a href="https://es.wikipedia.org/wiki/Espectro_electromagn%C3%A9tico">Tabla de Bandas del Espectro Electromagnético</a>, se determina en qué parte del espectro electromagnético se encuentra esa frecuencia de onda. 
-+ **8. Escriba un programa que dada una distancia calcule:**
++ 8. Escriba un programa que dada una distancia calcule:
   * **_El tiempo que le tomaría a la luz recorrer la distancia._**
   * **_El tiempo que le tomaría al sonido (en el aire) recorrer la distancia._**
   * **_El tiempo que le tomaría al vehiculo comercial más veloz recorrer la distancia._**
