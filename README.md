@@ -51,7 +51,10 @@ Espero que te guste este repositorio y si lo estas usando de guia, por lo menos 
 
 + **Realice un programa que lea tres números reales y determine si la suma de los dos primeros es mayor, menor o igual que el tercer número.**
   
+  
 ![image](https://github.com/Cate1911/Proyecto-Gargajito-1/assets/142174506/a81215b2-19e2-4fc9-9d76-1f98337856a7)
+
+
 En este caso lo primeor que debemos realizar es la declaración de variables y asi pedir al usuario que ingrese los tres números para la ejecución del codigo. Después, en las operaciones, el codigo tiene que sumar los dos primeros números y evaluar si el resultado es menor, igual o mayor al tercer número e imprimir la respuesta correspondiente.
 
 + **Escriba un programa que pida 5 números reales y calcule las siguientes operaciones:**
