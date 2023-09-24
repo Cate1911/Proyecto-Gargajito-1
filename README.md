@@ -2,7 +2,7 @@
 Para este repositorio, utilizamos la extensión Code Snap para poder tomarle fotos a nuestros códigos y que se vieran más bonitos. Por otro lado, los diagramas de flujo los desarrollamos para los puntos 3 y 4 debido a que ambos documentos de identidad terminaban en 3.
 Espero que te guste este repositorio y si lo estas usando de guia, por lo menos deja una estrellita :).
 ## Puntos pares
-+ **2. Realice un programa que lea tres números reales y determine cuál es el mayor.**
++ ** 2. Realice un programa que lea tres números reales y determine cuál es el mayor.**
 
   ![image](https://github.com/Cate1911/Proyecto-Gargajito-1/assets/141857246/4b7d3670-f038-4fa7-a59e-24a57a5cfd44)
  En este ejercicio, comenzamos declarando las variables como tipo 'float' para indicar que los tres números ingresados por el usuario pueden tomar valores del conjunto de los reales. A continuación, establecimos cuatro condiciones para determinar la salida según las siguientes situaciones:
@@ -11,7 +11,7 @@ Espero que te guste este repositorio y si lo estas usando de guia, por lo menos 
   3. Si el tercer número (c) es mayor que los otros dos números (a y b).
   4. En cualquier otro caso, en el cual necesariamente el segundo número (b) es mayor que los otros dos números (a y c).
   Es importante destacar que el ejercicio no aborda situaciones en las que dos números sean iguales y también sean mayores o menores que el tercer número. Por ejemplo, si a=b>c, en ese caso, la salida sería 'a' ya que a es igual a b. El ejercicio se centra únicamente en determinar cuál de los tres números es el mayor, sin considerar casos de igualdad entre dos de ellos.
-+ **4. Realice un programa que lea dos números reales y determine si el primero es múltiplo del segundo.**
++ ** 4. Realice un programa que lea dos números reales y determine si el primero es múltiplo del segundo.**
 
   ![image](https://github.com/Cate1911/Proyecto-Gargajito-1/assets/141857246/60e69457-ab19-4f01-8365-abf23ad22230)
   En este ejercicio, comenzamos declarando las variables como tipo 'float' para indicar que los tres números ingresados por el usuario pueden tomar valores del conjunto de los números reales. En cuanto a la lógica del algoritmo, hemos establecido dos condiciones para determinar la salida:
@@ -23,7 +23,7 @@ Espero que te guste este repositorio y si lo estas usando de guia, por lo menos 
 
      ![image](https://github.com/Cate1911/Proyecto-Gargajito-1/assets/141857246/5edba27b-13c9-45bd-91cf-9bb5174c4c9c)
 
-+ **6. Escriba un programa que solicite al usuario una letra y determine si es una vocal o una consonante.**
++ ** 6. Escriba un programa que solicite al usuario una letra y determine si es una vocal o una consonante.**
 
   ![image](https://github.com/Cate1911/Proyecto-Gargajito-1/assets/141857246/c3dd4ed6-8a51-46fe-8a76-ba30c5ff1f22)
   En este caso, se solicita al usuario que ingrese un carácter. El algoritmo valida la entrada de usuario de la siguiente manera:
