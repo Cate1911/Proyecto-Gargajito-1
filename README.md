@@ -11,7 +11,7 @@ Espero que te guste este repositorio y si lo estas usando de guia, por lo menos 
   3. Si el tercer número (c) es mayor que los otros dos números (a y b).
   4. En cualquier otro caso, en el cual necesariamente el segundo número (b) es mayor que los otros dos números (a y c).
   Es importante destacar que el ejercicio no aborda situaciones en las que dos números sean iguales y también sean mayores o menores que el tercer número. Por ejemplo, si a=b>c, en ese caso, la salida sería 'a' ya que a es igual a b. El ejercicio se centra únicamente en determinar cuál de los tres números es el mayor, sin considerar casos de igualdad entre dos de ellos.
-+  4. Realice un programa que lea dos números reales y determine si el primero es múltiplo del segundo.
++ 4. **Realice un programa que lea dos números reales y determine si el primero es múltiplo del segundo.**
 
   ![image](https://github.com/Cate1911/Proyecto-Gargajito-1/assets/141857246/60e69457-ab19-4f01-8365-abf23ad22230)
   En este ejercicio, comenzamos declarando las variables como tipo 'float' para indicar que los tres números ingresados por el usuario pueden tomar valores del conjunto de los números reales. En cuanto a la lógica del algoritmo, hemos establecido dos condiciones para determinar la salida:
