@@ -54,7 +54,7 @@ Espero que te guste este repositorio y si lo estas usando de guia, por lo menos 
   * **_La raíz cúbica del menor número._**
   
   ![image](https://github.com/Cate1911/Proyecto-Gargajito-1/assets/141857246/6f762701-cc3a-4cf0-a330-8bfc6b758be6)
-  ![image](https://github.com/Cate1911/Proyecto-Gargajito-1/assets/141857246/a24bdeb4-0adb-4a63-b144-1baa8e2ed9f5)
+  ![image](https://github.com/Cate1911/Proyecto-Gargajito-1/assets/141857246/0d88b162-03dc-48da-acaa-589562db1091)
 
 + **Escriba un programa que reciba el nombre en minúsculas de un país de America y retorne la ciudad capital, si el país no pertenece al continente debe arrojar país no identificado.**
 
