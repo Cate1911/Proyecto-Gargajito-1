@@ -46,6 +46,7 @@ Espero que te guste este repositorio y si lo estas usando de guia, por lo menos 
 + **Realice un programa que lea un número enteros y determine si es par o impar.**
   
 ![image](https://github.com/Cate1911/Proyecto-Gargajito-1/assets/142174506/658534d7-30d4-4019-b158-ec78d73d167f)
+
   Este punto, fue sencillo de realizar, lo primero fue declarar las variables para que el usuario pueda ingresar un numero y por ultimo le pedimos al progrma que si l asginación con residuo es =0 nos imprina que es par, sino, que nos imprima si es impar.
 
 + **Realice un programa que lea tres números reales y determine si la suma de los dos primeros es mayor, menor o igual que el tercer número.**
