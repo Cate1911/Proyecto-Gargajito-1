@@ -64,6 +64,7 @@ Espero que te guste este repositorio y si lo estas usando de guia, por lo menos 
 
 -**Diagrama de flujo**
 
+
 ![image](https://github.com/Cate1911/Proyecto-Gargajito-1/assets/142174506/875c3416-f559-48d4-a51d-5af6c6f6b97f)
 
 
