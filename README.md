@@ -69,8 +69,15 @@ En este caso lo primeor que debemos realizar es la declaración de variables y a
 
   ![image](https://github.com/Cate1911/Proyecto-Gargajito-1/assets/141857246/6f762701-cc3a-4cf0-a330-8bfc6b758be6)
   ![image](https://github.com/Cate1911/Proyecto-Gargajito-1/assets/141857246/0d88b162-03dc-48da-acaa-589562db1091)
+  
 
 + **Escriba un programa que reciba el nombre en minúsculas de un país de America y retorne la ciudad capital, si el país no pertenece al continente debe arrojar país no identificado.**
+  
+  ![image](https://github.com/Cate1911/Proyecto-Gargajito-1/assets/142174506/dcd5d5c4-4cbb-435a-b43c-7aee1ed5a22d)
+  ![image](https://github.com/Cate1911/Proyecto-Gargajito-1/assets/142174506/8850525a-d061-4e53-a7fa-24f1b8009445)
+  
+
+para ese punto, lo primero es declarar las variables e pedir al usuario el ingreso de datos. hay que tener que en cuenta que solo se puede ingresar los nombres de los paise en minúscula, sin tiltes, ni comas, ni comillas, de lo contrario saltara "pais no identificado". Luego de ingresar los datos, el codigo evaluara si esta dentro de los casos posibles y asi mismo arrojara una respuesta. como se puede observar en el codigo hay muchos casos posibles, ya que estan todos los paises que conforman el continente americano.
 
 **¡Muchas Gracias! Y RECUERDA TOMAR AGUA**
 
