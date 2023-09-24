@@ -56,16 +56,17 @@ Espero que te guste este repositorio y si lo estas usando de guia, por lo menos 
   
 ![image](https://github.com/Cate1911/Proyecto-Gargajito-1/assets/142174506/658534d7-30d4-4019-b158-ec78d73d167f)
 
-- Diagrama de flujo
-  
-  flowchart TD;
-  A[inicio] --> B{ingrese un numero entero}
-  B ---> D[x%2==0]
-  D --Sí--> E[x es par]
-  D --No--> G[x es impar]
   
 
   Este punto, fue sencillo de realizar, lo primero fue declarar las variables para que el usuario pueda ingresar un numero y por ultimo le pedimos al progrma que si l asginación con residuo es =0 nos imprina que es par, sino, que nos imprima si es impar.
+  
+
+
+-**Diagrama de flujo**
+
+![image](https://github.com/Cate1911/Proyecto-Gargajito-1/assets/142174506/875c3416-f559-48d4-a51d-5af6c6f6b97f)
+
+
 
 + **Realice un programa que lea tres números reales y determine si la suma de los dos primeros es mayor, menor o igual que el tercer número.**
   
