@@ -3,8 +3,11 @@ Para este repositorio, utilizamos la extensión Code Snap para poder tomarle fot
 Espero que te guste este repositorio y si lo estas usando de guia, por lo menos deja una estrellita :).
 
 
+
 + **Realice el quiz Python Beginner Quiz (20 preguntas) y adjunte pantallazo con el resultado (mínimo 90% bien).**
   ![image](https://github.com/Cate1911/Proyecto-Gargajito-1/assets/142174506/3d6e2dba-dd8d-4768-9552-184dbe207050)
+
+  
 
 
 ## Puntos pares
