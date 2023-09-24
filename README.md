@@ -1,6 +1,12 @@
 # Proyecto-Gargajito-1
 Para este repositorio, utilizamos la extensión Code Snap para poder tomarle fotos a nuestros códigos y que se vieran más bonitos. Por otro lado, los diagramas de flujo los desarrollamos para los puntos 3 y 4 debido a que ambos documentos de identidad terminaban en 3.
 Espero que te guste este repositorio y si lo estas usando de guia, por lo menos deja una estrellita :).
+
+
++ **Realice el quiz Python Beginner Quiz (20 preguntas) y adjunte pantallazo con el resultado (mínimo 90% bien).**
+  ![image](https://github.com/Cate1911/Proyecto-Gargajito-1/assets/142174506/3d6e2dba-dd8d-4768-9552-184dbe207050)
+
+
 ## Puntos pares
 + **Realice un programa que lea tres números reales y determine cuál es el mayor.**
 
