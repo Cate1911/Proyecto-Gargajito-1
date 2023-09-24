@@ -42,9 +42,12 @@ Espero que te guste este repositorio y si lo estas usando de guia, por lo menos 
   ![image](https://github.com/Cate1911/Proyecto-Gargajito-1/assets/141857246/9a501af8-62fd-482c-a8c4-2725ed105124)
   En esta sección, primero declaramos las variables y les asignamos el tipo de dato float para representar números reales. Luego, inicializamos las variables asignando a cada entidad (luz, sonido, Bolt y el SSC) su velocidad correspondiente en metros por segundo (m/s). Posteriormente, calculamos el tiempo que le tomaría a cada entidad recorrer la distancia proporcionada por el usuario. Esto se calcula teniendo en cuenta que cada entidad recorre ciertos metros en un segundo. Finalmente, mostramos los tiempos necesarios para que cada entidad recorra esa distancia.
 ## Puntos impares
+
 + **Realice un programa que lea un número enteros y determine si es par o impar.**
+  
 ![image](https://github.com/Cate1911/Proyecto-Gargajito-1/assets/142174506/658534d7-30d4-4019-b158-ec78d73d167f)
   Este punto, fue sencillo de realizar, lo primero fue declarar las variables para que el usuario pueda ingresar un numero y por ultimo le pedimos al progrma que si l asginación con residuo es =0 nos imprina que es par, sino, que nos imprima si es impar.
+
 + **Realice un programa que lea tres números reales y determine si la suma de los dos primeros es mayor, menor o igual que el tercer número.**
 + **Escriba un programa que pida 5 números reales y calcule las siguientes operaciones:**
   * **_El promedio._**
