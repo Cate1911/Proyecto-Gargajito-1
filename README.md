@@ -2,13 +2,11 @@
 Para este repositorio, utilizamos la extensión Code Snap para poder tomarle fotos a nuestros códigos y que se vieran más bonitos. Por otro lado, los diagramas de flujo los desarrollamos para los puntos 3 y 4 debido a que ambos documentos de identidad terminaban en 3.
 Espero que te guste este repositorio y si lo estas usando de guia, por lo menos deja una estrellita :).
 
-
-
-+ **Realice el quiz Python Beginner Quiz (20 preguntas) y adjunte pantallazo con el resultado (mínimo 90% bien).**
++ **Quiz David Felipe Python Beginner Quiz (20 preguntas).**
   ![image](https://github.com/Cate1911/Proyecto-Gargajito-1/assets/142174506/3d6e2dba-dd8d-4768-9552-184dbe207050)
 
-  
-
++ **Quiz Caterin Sierra Python Beginner Quiz (20 preguntas).**
+  ![image](https://github.com/Cate1911/Proyecto-Gargajito-1/assets/141857246/d704c40f-4605-4823-a580-d1131add93f5)
 
 ## Puntos pares
 + **Realice un programa que lea tres números reales y determine cuál es el mayor.**
@@ -54,19 +52,15 @@ Espero que te guste este repositorio y si lo estas usando de guia, por lo menos 
 
 + **Realice un programa que lea un número enteros y determine si es par o impar.**
   
-![image](https://github.com/Cate1911/Proyecto-Gargajito-1/assets/142174506/658534d7-30d4-4019-b158-ec78d73d167f)
-
-  
+  ![image](https://github.com/Cate1911/Proyecto-Gargajito-1/assets/142174506/658534d7-30d4-4019-b158-ec78d73d167f)
 
   Este punto, fue sencillo de realizar, lo primero fue declarar las variables para que el usuario pueda ingresar un numero y por ultimo le pedimos al progrma que si l asginación con residuo es =0 nos imprina que es par, sino, que nos imprima si es impar.
   
 
+  **_Diagrama de flujo_**
 
--**Diagrama de flujo**
 
-
-![image](https://github.com/Cate1911/Proyecto-Gargajito-1/assets/142174506/875c3416-f559-48d4-a51d-5af6c6f6b97f)
-
+  ![image](https://github.com/Cate1911/Proyecto-Gargajito-1/assets/142174506/875c3416-f559-48d4-a51d-5af6c6f6b97f)
 
 
 + **Realice un programa que lea tres números reales y determine si la suma de los dos primeros es mayor, menor o igual que el tercer número.**
@@ -75,7 +69,7 @@ Espero que te guste este repositorio y si lo estas usando de guia, por lo menos 
 ![image](https://github.com/Cate1911/Proyecto-Gargajito-1/assets/142174506/a81215b2-19e2-4fc9-9d76-1f98337856a7)
 
 
-En este caso lo primeor que debemos realizar es la declaración de variables y asi pedir al usuario que ingrese los tres números para la ejecución del codigo. Después, en las operaciones, el codigo tiene que sumar los dos primeros números y evaluar si el resultado es menor, igual o mayor al tercer número e imprimir la respuesta correspondiente.
+En este caso lo primero que hicimos fue  la declaración de variables; después, se le pidió al usuario que ingresara los tres números para la ejecución del código. Después, en las operaciones, el programa tiene que sumar los dos primeros números y evaluar si el resultado es menor, igual o mayor al tercer número e imprimir la respuesta correspondiente según la condición que se cumpla.
 
 + **Escriba un programa que pida 5 números reales y calcule las siguientes operaciones:**
   * **_El promedio._**
@@ -97,9 +91,8 @@ En este caso lo primeor que debemos realizar es la declaración de variables y a
   ![image](https://github.com/Cate1911/Proyecto-Gargajito-1/assets/142174506/8850525a-d061-4e53-a7fa-24f1b8009445)
   
 
-para ese punto, lo primero es declarar las variables e pedir al usuario el ingreso de datos. hay que tener que en cuenta que solo se puede ingresar los nombres de los paise en minúscula, sin tiltes, ni comas, ni comillas, de lo contrario saltara "pais no identificado". Luego de ingresar los datos, el codigo evaluara si esta dentro de los casos posibles y asi mismo arrojara una respuesta. como se puede observar en el codigo hay muchos casos posibles, ya que estan todos los paises que conforman el continente americano.
+Para ese punto, lo primero que hicimos fue declarar las variables y pedirle al usuario el ingresara de datos. Hay que tener que en cuenta que sólo se pueden ingresar los nombres de los países en minúscula, sin tíltes, ni comas, ni comillas, de lo contrario, el programa le arrojará "país no identificado". Luego de ingresar los datos, el código evaluará si está dentro de los casos posibles y así mismo, arrojará una respuesta. Como se puede observar en el código, hay muchos casos posibles, debido a que están todos los paises que conforman el continente americano.
 
 **¡Muchas Gracias! Y RECUERDA TOMAR AGUITA**
-
 
 [[![image](https://github.com/Cate1911/Proyecto-Gargajito-1/assets/141857246/2f9523bb-ee74-4f61-a7f5-3f864ae13a66)](https://open.spotify.com/intl-es/track/2VCSO1mqWPALcPbEQwgSd3?si=8a435d63fae64e24)
