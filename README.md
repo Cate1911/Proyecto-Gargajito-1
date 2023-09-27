@@ -93,6 +93,8 @@ En este caso lo primero que hicimos fue  la declaración de variables; después,
 
 Para ese punto, lo primero que hicimos fue declarar las variables y pedirle al usuario el ingresara de datos. Hay que tener que en cuenta que sólo se pueden ingresar los nombres de los países en minúscula, sin tíltes, ni comas, ni comillas, de lo contrario, el programa le arrojará "país no identificado". Luego de ingresar los datos, el código evaluará si está dentro de los casos posibles y así mismo, arrojará una respuesta. Como se puede observar en el código, hay muchos casos posibles, debido a que están todos los paises que conforman el continente americano.
 
-**¡Muchas Gracias! Y RECUERDA TOMAR AGUITA**
+**¡Muchas Gracias! Y RECUERDA TOMAR AGUITA Y DARLE LIKE A NUESTRO VÍDEO**
+
+<a href="https://youtu.be/V_VHunb9EcY?si=OZso2ywMuHqIAOiM"> Videito </a>
 
 [[![image](https://github.com/Cate1911/Proyecto-Gargajito-1/assets/141857246/2f9523bb-ee74-4f61-a7f5-3f864ae13a66)](https://open.spotify.com/intl-es/track/2VCSO1mqWPALcPbEQwgSd3?si=8a435d63fae64e24)
